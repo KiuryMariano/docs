@@ -5,7 +5,7 @@
     "dark": "images/LogoAKT-SemFundo.png",
     "light": "images/LogoAKT-SemFundo.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "images/LogoAKT-SemFundo.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -15,12 +15,11 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
+  "topbarCtaButton": {
+      "name": "Suporte",
       "url": "https://forms.gle/7zCBw1XbhP8fuXBp6"
-    }
-  ],
+    },
+    
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "https://aktsoftware.mintlify.app/Dashboard"
