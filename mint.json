@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dinamica.aktdocs.com/schema.json",
+  "$schema": "https://aktsoftware.mintlify.app/schema.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "images/Logotipo-AKT-Software.png",
@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dinamica.aktdocs.com/Dashboard"
+    "url": "https://aktsoftware.mintlify.app/Dashboard"
   },
   "tabs": [
     {
