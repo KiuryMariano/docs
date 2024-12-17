@@ -1,6 +1,6 @@
 {
   "$schema": "https://aktsoftware.mintlify.app/schema.json",
-  "name": "home",
+  "name": "AKT Software",
   "logo": {
     "dark": "images/LogoAKT-SemFundo.png",
     "light": "images/LogoAKT-SemFundo.png"
