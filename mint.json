@@ -42,7 +42,7 @@
   
   "navigation": [
     {
-      "group": "Home",
+      "group": "Início",
       "pages": [
         "home/introduction",
         "home/integration",
@@ -50,14 +50,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Colaboradores",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "peoples/markdown",
+        "peoples/code",
+        "peoples/images",
+        "peoples/settings",
+        "peoples/navigation",
+        "peoples/reusable-snippets"
       ]
     },
     {
