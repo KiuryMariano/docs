@@ -29,7 +29,8 @@
   ],
   "anchors": [
     {
-      "name": "AKT Software",
+      "name": "AKT SOFTWARE",
+      "icon": "fa-solid fa-clipboard",
       "url": "https://aktsoftware.com.br/"
     },
     {
