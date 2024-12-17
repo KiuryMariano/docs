@@ -37,16 +37,16 @@
       "name": "AKT GESTOR PDV",
       "icon": "slack",
       "url": "https://dinamica.aktgestorpdv.com.br/"
-    },
+    }
   ],
   
   "navigation": [
     {
-      "group": "home",
+      "group": "Home",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "home/introduction",
+        "home/quickstart",
+        "home/development"
       ]
     },
     {
