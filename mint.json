@@ -1,6 +1,6 @@
 {
   "$schema": "https://aktsoftware.mintlify.app/schema.json",
-  "name": "Starter Kit",
+  "name": "home",
   "logo": {
     "dark": "images/LogoAKT-SemFundo.png",
     "light": "images/LogoAKT-SemFundo.png"
@@ -15,15 +15,12 @@
       "to": "#07C983"
     }
   },
-  "topbarCtaButton": {
-      "name": "Suporte",
-      "url": "https://forms.gle/7zCBw1XbhP8fuXBp6"
-    },
     
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://aktsoftware.mintlify.app/Dashboard"
+    "name": "Suporte",
+    "url": "https://forms.gle/7zCBw1XbhP8fuXBp6"
   },
+  
   "tabs": [
     {
       "name": "TEst Reference",
