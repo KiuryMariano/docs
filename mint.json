@@ -42,7 +42,7 @@
   
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "home",
       "pages": [
         "introduction",
         "quickstart",
