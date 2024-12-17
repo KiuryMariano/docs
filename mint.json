@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
+  "$schema": "https://dinamica.aktdocs.com/schema.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "images/Logotipo-AKT-Software.png",
