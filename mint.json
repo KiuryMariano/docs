@@ -38,12 +38,8 @@
       "icon": "slack",
       "url": "https://dinamica.aktgestorpdv.com.br/"
     },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://aktsoftware.mintlify.app/blog"
-    }
   ],
+  
   "navigation": [
     {
       "group": "Get Started",
