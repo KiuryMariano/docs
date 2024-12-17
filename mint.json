@@ -45,7 +45,7 @@
       "group": "Home",
       "pages": [
         "home/introduction",
-        "home/quickstart",
+        "home/integration",
         "home/development"
       ]
     },
