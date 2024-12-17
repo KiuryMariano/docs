@@ -29,8 +29,8 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
+      "name": "AKT Software",
+      "icon": "fa-regular fa-sitemap",
       "url": "https://aktsoftware.mintlify.app/docs"
     },
     {
