@@ -52,12 +52,8 @@
     {
       "group": "Colaboradores",
       "pages": [
-        "peoples/markdown",
-        "peoples/code",
-        "peoples/images",
-        "peoples/settings",
-        "peoples/navigation",
-        "peoples/reusable-snippets"
+        "peoples/profile",
+        "peoples/users"
       ]
     },
     {
