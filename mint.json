@@ -8,11 +8,11 @@
   "favicon": "images/LogoAKT-SemFundo.png",
   "colors": {
     "primary": "#2B2167",
-    "light": "#0D9373",
+    "light": "#8245BF",
     "dark": "#2B2167",
     "anchors": {
       "from": "#2B2167",
-      "to": "#07C983"
+      "to": "#8245BF"
     }
   },
     
