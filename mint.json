@@ -30,12 +30,12 @@
   "anchors": [
     {
       "name": "AKT SOFTWARE",
-      "icon": "clipboard",
+      "icon": "building",
       "url": "https://aktsoftware.com.br/"
     },
     {
       "name": "AKT GESTOR PDV",
-      "icon": "slack",
+      "icon": "clipboard",
       "url": "https://dinamica.aktgestorpdv.com.br/"
     }
   ],
