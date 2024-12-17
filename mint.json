@@ -2,8 +2,8 @@
   "$schema": "https://aktsoftware.mintlify.app/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "images/Logotipo-AKT-Software.png",
-    "light": "images/Logotipo-AKT-Software.png"
+    "dark": "images/LogoAKT-SemFundo.png",
+    "light": "images/LogoAKT-SemFundo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
