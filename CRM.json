@@ -25,6 +25,10 @@
     {
       "name": "Trade",
       "url": "api-reference"
+    },
+    {
+      "name": "CRM",
+      "url": "home"
     }
   ],
   "anchors": [
