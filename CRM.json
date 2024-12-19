@@ -45,8 +45,7 @@
       "group": "Início",
       "pages": [
         "home/introduction",
-        "home/integration",
-        "home/development"
+        "home/integration"
       ]
     },
     {
