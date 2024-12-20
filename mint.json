@@ -83,9 +83,9 @@
     {
       "group": "Produtos",
       "pages": [
-        "roterizacao/cadastro",
-        "roterizacao/mix",
-        "roterizacao/sortimento"
+        "produtos/cadastro",
+        "produtos/mix",
+        "produtos/sortimento"
       ]
     }
   ],
