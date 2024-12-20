@@ -71,6 +71,12 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "API Documentation",
+      "pages": [
+        "api-reference-copy/introduction"
+      ]
     }
   ],
   "footerSocials": {
