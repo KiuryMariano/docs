@@ -73,9 +73,11 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Rotas",
       "pages": [
-        "api-reference-copy/introduction"
+        "roterizacao/agendamentos",
+        "roterizacao/relatorio-roteiros",
+        "roterizacao/transferencias"
       ]
     }
   ],
