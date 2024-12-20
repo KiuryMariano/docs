@@ -23,11 +23,11 @@
   
   "tabs": [
     {
-      "name": "Trade 45",
-      "url": "api-reference"
+      "name": "Produtos",
+      "url": "produtos"
     },
     {
-      "name": "Reoterização",
+      "name": "Roteirização",
       "url": "roterizacao"
     }
   ],
@@ -78,6 +78,14 @@
         "roterizacao/agendamentos",
         "roterizacao/relatorio-roteiros",
         "roterizacao/transferencias"
+      ]
+    },
+    {
+      "group": "Produtos",
+      "pages": [
+        "roterizacao/cadastro",
+        "roterizacao/mix",
+        "roterizacao/sortimento"
       ]
     }
   ],
