@@ -23,12 +23,12 @@
   
   "tabs": [
     {
-      "name": "Trade 2",
+      "name": "Trade 45",
       "url": "api-reference"
-    },
+    }
     {
       "name": "Trade 3",
-      "url": "api-reference-copy"
+      "url": "api-reference"
     }
   ],
   "anchors": [
